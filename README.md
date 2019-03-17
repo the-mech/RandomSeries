@@ -1,7 +1,7 @@
 # RandomSeries
 ------
 
-This tool searches for all files (including files in subdirectories, recursively)inside the directory it is executed, chooses one file randomly and executes it.
+This tool searches for all files inside the directory it is executed (including files in subdirectories, recursively), chooses one file randomly and executes it.
 
 Good for watching random episodes of a series.
 
